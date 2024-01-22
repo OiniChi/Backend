@@ -13,3 +13,5 @@ async def print_func() -> str:
 @app.get('/tools')
 async def print_func() -> str:
     return f"Навыки: Владения ООП, базовое владение реляционными базами данных SQL/PostgreSQL, знания языков: С/C++/C#, Python, знания фреймворков .Net Framework, FastAPI, Docker..."
+
+suka
